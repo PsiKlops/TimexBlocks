@@ -1,4 +1,4 @@
-# TimexBlocks
+# Timex Blocks
 Tetris on the Timex Ironman Watch
 Video link
 https://www.youtube.com/watch?v=VxgxxhFt_IQ
