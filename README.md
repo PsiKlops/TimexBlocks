@@ -18,3 +18,7 @@ http://assets.timex.com/developer/developer_downloads/WA_Design_Guide.pdf
 ROM and 2Kbytes of RAM. It has built in hardware components to attached external devices like I/O
 ports, serial port, LCD, timers, etc. The operating system and a number of internal applications are masked
 in ROM."
+
+
+Useful link for docs:
+https://assets.timex.com/developer/datalink/index.html
