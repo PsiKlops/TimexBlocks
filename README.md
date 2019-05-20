@@ -22,3 +22,6 @@ in ROM."
 
 Useful link for docs:
 https://assets.timex.com/developer/datalink/index.html
+
+Link for developer group [needs yahoo email]
+https://groups.yahoo.com/neo/groups/timexdatalinkusb/info
