@@ -31,3 +31,5 @@ https://assets.timex.com/developer/accept/index_download.html
 In order to build files you need the Timex 'WristApp SDK Installer' installed. Download the Timex_WA_SDK_Installer_1_18.msi file from the link aboveand run that to get the c:\M851 and c:\C88 folders set up.
 
 The linked page also contains further links to most of the documentation you will need, including the 'Getting Started' guide.
+
+https://user-images.githubusercontent.com/50597519/58133346-8e9b1480-7c1b-11e9-87da-12524543db64.png
