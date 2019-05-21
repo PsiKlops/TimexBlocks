@@ -25,3 +25,7 @@ https://assets.timex.com/developer/datalink/index.html
 
 Link for developer group [needs yahoo email]
 https://groups.yahoo.com/neo/groups/timexdatalinkusb/info
+
+https://assets.timex.com/developer/accept/index_download.html  
+In order to build files you need the Timex WristApp SDK installed. Download the Timex_WA_SDK_Installer_1_18.msi file from the link above
+and run that to get the c:\M851 and c:\C88 folders set up
