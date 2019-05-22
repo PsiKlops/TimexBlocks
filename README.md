@@ -1,6 +1,10 @@
 # Timex Blocks
 Tetris on the Timex Ironman Watch
-Video link
+Video links
+
+2019
+https://www.youtube.com/watch?v=mitJafrsimw&feature=youtu.be 
+2009
 https://www.youtube.com/watch?v=VxgxxhFt_IQ
 
 My first and only attempt at programming the Timex Ironman M851 watch a while back. 
