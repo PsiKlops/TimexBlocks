@@ -36,4 +36,12 @@ Links below show images of the Wrist App Builder with the Tetris app loaded
 
 https://user-images.githubusercontent.com/50597519/58133346-8e9b1480-7c1b-11e9-87da-12524543db64.png
 
-https://user-images.githubusercontent.com/50597519/58133351-922e9b80-7c1b-11e9-80cc-1ef7b0267c02.png
+https://user-images.githubusercontent.com/50597519/58133351-922e9b80-7c1b-11e9-80cc-1ef7b0267c02.png 
+
+
+If you don't have a watch you can run the app on the simulator found at this link here:
+
+VirtualDatalink
+
+http://datalinkwristapps.free.fr/index.php5?n=PC.VirtualDatalink
+
