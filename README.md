@@ -6,6 +6,9 @@ Video links
 
 https://www.youtube.com/watch?v=mitJafrsimw&feature=youtu.be 
 
+UPDATE: I just spotted a bug in the latest video at the 5 min 5 sec point when I complete a line above the designated area and it disappears but the blocks above don't fall down. I have not looked at the code to explore why but my initial theory is that above the height defined by the right hand block column the checks don't work as expected.
+
+
 2009
 
 https://www.youtube.com/watch?v=VxgxxhFt_IQ
