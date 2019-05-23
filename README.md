@@ -6,7 +6,7 @@ Video links
 
 https://www.youtube.com/watch?v=mitJafrsimw&feature=youtu.be 
 
-UPDATE: I just spotted a bug in the latest video at the 5 min 5 sec point when I complete a line above the designated area and it disappears but the blocks above don't fall down. I have not looked at the code to explore why (and I'm not sure if I'm going to bother anytime soon) but my initial theory is that anything above the height defined by the right hand block column I'm not bothering to check for blocks to drop.
+UPDATE: I just spotted a bug in the latest video at the 5 min 5 sec point when I complete a line above the designated area and it disappears but the blocks above don't fall down. I have not looked at the code to explore why (and I'm not sure if I'm going to bother anytime soon) but it looks like that anything above the height defined by the right hand block column is being missed by the check for blocks to drop.
 
 
 2009
